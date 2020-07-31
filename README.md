@@ -154,3 +154,5 @@ If you implement this protocol and publish the results, these references to exte
 
 This protocol has been created thanks to the contribution of researchers from different institutions. [Please check our preprint for more details](https://arxiv.org/abs/2004.13119)
 
+![logo](pictures/PARCE.png)
+
