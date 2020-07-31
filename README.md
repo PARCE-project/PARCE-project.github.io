@@ -1,13 +1,11 @@
-# PARCE
-
-### Purpose
+## Purpose
 
 Here we present PARCE, an open source Protocol for Amino acid Refinement through Computational Evolution that implements an advanced and promising method for the design of peptides and proteins. The protocol performs a random mutation in the binder sequence, then samples the bound conformations using molecular dynamics simulations, and evaluates the protein-protein interactions from multiple scoring. Finally, it accepts or rejects the mutation by applying a consensus criterion based on binding scores. The procedure is iterated with the aim to explore efficiently novel sequences with potential better affinities toward their targets. **This is explained in a graphical summary:**
 
 ![summary](pictures/summary_PARCE.png)
 
 
-### Third-party tools:
+## Third-party tools:
 
 - Scwrl4 (optional): http://dunbrack.fccc.edu/scwrl4/license/index.html
 - Gromacs 5.1.4 (tested version): http://manual.gromacs.org/documentation/5.1.4/download.html
