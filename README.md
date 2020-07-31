@@ -4,8 +4,6 @@ Here we present PARCE, an open source Protocol for Amino acid Refinement through
   <a href="https://github.com/PARCE-project/PARCE-1"><b>Visit our latest version</b></a>
 </p>
 
-**[Visit out lastest version](https://github.com/PARCE-project/PARCE-1)**
-
 ![summary](pictures/summary_PARCE.png)
 
 
